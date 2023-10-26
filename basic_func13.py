@@ -7,4 +7,5 @@ def main(a):
     Returns:
         float: the absolute value.
     '''
-    return
+    return a
+print(main(9/3))
