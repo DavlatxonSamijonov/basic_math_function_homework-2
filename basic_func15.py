@@ -8,4 +8,9 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return
+    return int (x)
+
+a=23
+b=5
+x=a%b
+print (23%5)
